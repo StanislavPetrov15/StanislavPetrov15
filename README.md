@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StanislavPetrov15
 - 👀 I’m interested in ... imperative programming, computer graphics 
 - 🌱 I’m currently learning ... computer graphics 
-- 💞️ I’m looking to collaborate on ... nothing
+- 💞️ I’m looking to collaborate on ... some computer game or Sega Genesis game 
 - 📫 How to reach me ... stanislav.nikolaev.petrov@gmail.com
 
 <!---

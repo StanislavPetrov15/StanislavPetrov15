@@ -1,6 +1,5 @@
 - Hi, I’m @StanislavPetrov15
-- I’m interested in ... imperative programming, computer graphics 
-- I’m currently learning ... computer graphics 
+- I’m interested in imperative programming and computer graphics 
 - I'm using CLion  
 - I'm currently working on (a compiler for my own imperative object-oriented programming language) and a Sega Genesis game
 - 📫 How to reach me ... stanislav.nikolaev.petrov@gmail.com
